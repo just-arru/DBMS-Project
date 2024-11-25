@@ -1,0 +1,19 @@
+*Install Python Latest Version
+for pip installation
+
+*Install VS Code
+open the studentmanagement file
+
+*Install XAMP
+start apache & mysql server
+also add db file into xamp with same name as into the main.py file
+
+*Install These Module
+pip install flask
+pip install Flask-Mail
+pip install Flask-SQLAlchemy
+pip install mysqlclient
+pip install SQLAlchemy
+pip install Flask-Login
+
+*RUN python.py into the main.py file
